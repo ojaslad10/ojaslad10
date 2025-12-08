@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Backend+Developer;Java+is+Love+%E2%9D%A4;Finalist+in+Mumbai+Hacks+2025;Finalist+in+Barclays+X+Capgemini+Hackathon+2024" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=750&lines=Finalist+in+Mumbai+Hacks+2025;Finalist+in+Barclays+X+Capgemini+Hackathon+2024;Java+is+Love+%E2%9D%A4;Java+%7C+Spring+Boot+Developer;Backend+Developer" />
 </p>
 
 ---
@@ -28,10 +28,12 @@
 
 ---
 
-## ⚙️ Tech Stack
-<p>
- <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,mongodb,mysql,js,html,css,git,github,kafka&theme=dark" />
+<h3 align="center">🚀 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,mongodb,mysql,js,html,css,git,github,kafka&theme=dark" />
 </p>
+
 
 
 ---
