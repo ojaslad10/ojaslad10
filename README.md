@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ojas Lad</h1>
-<h3 align="center">A Computer Engineering student skilled in Java, Spring Boot, and full-stack development. Finalist in national hackathons and experienced in building real-world Android + backend applications.</h3>
+<h3 align="center">A Computer Engineering student skilled in Java, Spring Boot, and full-stack development. Finalist in national hackathons and experienced in building real-world full stack applications.</h3>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ojaslad10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Backend+Developer;Java+is+Love+%E2%9D%A4;Finalist+in+Mumbai+Hacks+2025;Finalist+in+Barclays+X+Capgemini+Hackathon+2024" />
 </p>
 
 ---
@@ -13,7 +15,7 @@
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**  
 - 🏆 Finalist at **Mumbai Hacks 2025** – selected out of **20,000+ registrations**  
 - 💻 Skilled in **Java, Spring Boot, Android (Kotlin), JavaScript, MongoDB**  
-- 🎯 Passionate about **Backend Engineering** and **FinTech Apps**  
+- 🎯 Passionate about **Backend Engineering**
 - 📫 Reach me at **osladofficial15@gmail.com**
 
 ---
@@ -26,54 +28,28 @@
 
 ---
 
-## 🚀 Tech Stack  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚙️ Tech Stack
+<p>
+ <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,mongodb,mysql,js,html,css,git,github,kafka&theme=dark" />
+</p>
+
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ⭐ **Resq – Women Safety Application**
-- Real-time location tracking  
-- Emergency alerts  
-- Fast & secure Spring Boot backend  
+- When ever a women feel unsafe. She can just press the power button of mobile three times and a notification will be sent to the nearest 10 users. 
+- Nearest 10 users will get the notification that a girl is in trouble. If they accept the request they will get navigation to reach to that girl. 
+- It will help the girl to get instant help. 
 🔗 Repo: *coming soon…*
 
 ---
 
-### ⭐ **Finance Advisor (Hackathon Finalist – Mumbai Hacks 2025)**
-- AI-powered expense tracking  
-- SMS parsing + ML model  
-- Top 200 out of 20,000+ teams  
+### ⭐ **Finance Advisor
+- Automatic expense tracker which tracks the expenses through Credit and Debit sms.  
+- A Chatbot with trained ML model which will talk with user in a friendly way, whenever a user asks a finance releated question.
+- Questions like : Where I am spending more ? ml model will analyse his expenses and return with a friendly answer that users is spending more in a particular category with a friendly advice.
 🔗 **Repo:** https://github.com/ojaslad10/Finance-Advisor
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojaslad10&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaslad10&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ojaslad10&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 🎉 Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
-</p>
