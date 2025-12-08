@@ -20,14 +20,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/ojas-lad-527079340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/_ojaslad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="center">🚀 Tech Stack</h3>
 
 <p align="center">
@@ -53,5 +45,13 @@
 - A Chatbot with trained ML model which will talk with user in a friendly way, whenever a user asks a finance releated question.
 - Questions like : Where I am spending more ? ml model will analyse his expenses and return with a friendly answer that users is spending more in a particular category with a friendly advice.
 🔗 **Repo:** https://github.com/ojaslad10/Finance-Advisor
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/ojas-lad-527079340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/_ojaslad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
 
 ---
