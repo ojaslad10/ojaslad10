@@ -40,7 +40,7 @@
 
 ---
 
-### ⭐ **Finance Advisor
+### ⭐ Finance Advisor
 - Automatic expense tracker which tracks the expenses through Credit and Debit sms.  
 - A Chatbot with trained ML model which will talk with user in a friendly way, whenever a user asks a finance releated question.
 - Questions like : Where I am spending more ? ml model will analyse his expenses and return with a friendly answer that users is spending more in a particular category with a friendly advice.
